@@ -1,0 +1,13 @@
+{
+  "station_id": "420",
+  "location": "萨米无尽冰原",
+  "coordinates": {
+    "lat": "未知",
+    "lon": "未知"
+  },
+  "equipment": {
+    "drone": "龙腾无人机 v3.2",
+    "sensors": ["温度", "湿度", "源石浓度"]
+  },
+  "status": "active"
+}
